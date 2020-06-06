@@ -20,6 +20,7 @@ RUN apt-get update && apt-get install -y \
     unzip \
     git \
     curl \
+	supervisor \
     openssl \
     cron \
     libxml2-dev \
